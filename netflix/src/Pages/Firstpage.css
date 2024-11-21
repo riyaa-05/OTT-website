@@ -1,0 +1,16 @@
+
+.contain{
+    font-size: 20px;
+    padding: 0 150px;
+    font-weight: 600;
+}
+@media(max-width:1250px){
+    .contain{
+        padding: 0 20px;
+        font-size: 16px;
+    }
+}
+.heading{
+    color: white;
+    font-weight: 900;
+}
