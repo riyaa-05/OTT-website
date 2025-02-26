@@ -16,14 +16,18 @@ Database: MongoDB
 Authentication: JWT (JSON Web Tokens)
 Hosting: Render
 
-Sign In page
+SIGN IN PAGE
+
 ![Screenshot 2024-08-13 185430](https://github.com/user-attachments/assets/35500473-6aec-4efe-bc60-9f1a8c38c0f1)
 
-Streaming page
+STREAMING PAGE
+
 ![Screenshot 2024-08-13 185543](https://github.com/user-attachments/assets/23a3c3b3-e128-4e43-b389-ae85875dd3d2)
+
 ![Screenshot 2024-08-13 185600](https://github.com/user-attachments/assets/3e2e9a29-5ae0-4e64-904f-a7ef1909af9d)
 
-Subscription page
+SUBSCRIPTION PAGE
+
 ![Screenshot 2024-08-13 223537](https://github.com/user-attachments/assets/4a106ce2-0d96-4591-9db3-c45505fc7d02)
 
 📜 License
